@@ -215,3 +215,10 @@ body {
     display: flex;
     justify-content: start;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #2b3743;
+    padding: 10px;
+}
