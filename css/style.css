@@ -90,6 +90,10 @@ body {
   background-color: #eeeeee;
 }
 
+.hello {
+    display: none;
+}
+
 .left-blocks {
   display: flex;
   flex-direction: column;
