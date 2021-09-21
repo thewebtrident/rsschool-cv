@@ -224,7 +224,8 @@ body {
 
 .footer {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
   background-color: #2b3743;
   padding: 10px;
 }
