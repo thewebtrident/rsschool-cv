@@ -41,6 +41,14 @@
 [Museum](https://rolling-scopes-school.github.io/thewebtrident-JSFE2021Q3/)
 ### Experience:
 *Accomplished courses: HTML, CSS, JS, constantky watching IT streams.*
+
+### Skills:
+* HTML, CSS
+* JavaScript
+* LESS, SASS
+* React (Basic)
+* Python
+* PHP (Basic)
 ### Languages:
   *  English (A1)
   *  Russian (Native)
