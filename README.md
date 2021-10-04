@@ -1,1 +1,1 @@
-## https://thewebtrident.github.io/rsschool-cv/cv
+## https://thewebtrident.github.io/rsschool-cv/
