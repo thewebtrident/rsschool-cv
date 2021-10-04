@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://thewebtident.github.io/rsschool-cv/cv
