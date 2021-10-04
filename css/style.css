@@ -265,10 +265,12 @@ body {
   }
 
   .person-name-block h1 {
+    font-family: "Cookie";
     font-size: 65px;
   }
 
   .person-name-block h2 {
+    font-family: "Cookie";
     font-size: 27px;
     padding-left: 10px;
   }
@@ -348,10 +350,12 @@ body {
   }
 
   .person-name-block h1 {
+    font-family: "Cookie";
     font-size: 40px;
   }
 
   .person-name-block h2 {
+    font-family: "Cookie";
     font-size: 21px;
     padding-left: 0px;
   }
@@ -383,6 +387,7 @@ body {
   }
 
   .person-name-block h2 {
+    font-family: "Cookie";
     font-size: 22px;
     padding-left: 10px;
   }
